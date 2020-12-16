@@ -1,4 +1,5 @@
 package pattern.abstractFactory.window;
 
-public class Window {
+public abstract class Window {
+    public abstract void printWhoIAm();
 }

@@ -1,4 +1,5 @@
 package pattern.abstractFactory.scrollBar;
 
-public class ScrollBar {
+public abstract class ScrollBar {
+    public abstract void printWhoIAm();
 }
